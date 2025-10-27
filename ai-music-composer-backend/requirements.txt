@@ -1,0 +1,10 @@
+glob
+pickle
+numpy
+music21
+keras
+tensorflow
+flask
+flask_socketio
+flask_cors
+string
