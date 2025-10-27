@@ -26,7 +26,7 @@ python -m venv .venv; .\.venv\Scripts\Activate.ps1
 2. Install typical packages:
 
 ```powershell
-pip install -r requirements.txt
+cd ai-music-composer-frontend; pip install -r requirements.txt
 ```
 
 3. Train a model (example):
